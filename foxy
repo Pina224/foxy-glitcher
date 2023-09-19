@@ -9,6 +9,10 @@
 
 -- Instances:
 
+--anim:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Emperean/empersreanimation/main/latest.lua"))()
+
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
@@ -11799,4 +11803,3 @@ end
 end
 end
 nd
-
